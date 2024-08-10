@@ -10,7 +10,8 @@ export default {
       "primary": '#0ea5e9',
       'white': '#ffffff',
       'slateGray': '#94a3b8',
-      'zincWhite': '#fafafa'
+      'zincWhite': '#fafafa',
+      'lessBlack': '#1e293b',
     }
   },
   
