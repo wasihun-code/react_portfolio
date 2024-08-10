@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Frontend",
+    "skills": [
+      "Html",
+      "Css",
+      "React",
+      "VueJS"
+    ]
+  },
+  {
+    "category": "Backend",
+    "skills": [
+      "Django",
+      "Flask",
+      "Laravel",
+      "DRF"
+    ]
+  },
+  {
+    "category": "Others",
+    "skills": [
+      "UI/UX",
+      "Version Control",
+      "Responsive Design",
+      "Rest APIs"
+    ]
+  },
+  {
+    "category": "Soft Skills(4Cs)",
+    "skills": [
+      "Communication",
+      "Collaboration",
+      "Commitment",
+      "Creativity"
+    ]
+  }
+]

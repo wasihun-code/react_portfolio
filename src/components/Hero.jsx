@@ -11,7 +11,7 @@ const Hero = () => {
           and frontend of website development. Lets get in touch. I look
           forward to hearing from you.
           </p>
-        <ul className='flex flex-row gap-3'>
+        <ul className='flex flex-row gap-3 my-3'>
           <li><a className='p-3 rounded-xl bg-primary text-zincWhite' href="#">Email Me Here</a></li>
           <li><a className='p-3 rounded-xl bg-zincWhite border-primary border' href="#">My Projects</a></li>
         </ul>

@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Hypothyroid Predictor",
+    "description": "Flask based application integrated with ML models. Used to predict Hypothyroidism.",
+    "picture": ""
+  },
+  {
+    "title": "Sport Scheduler",
+    "description": "Nodejs based application used to schedule sport events and track them",
+    "picture": ""
+  },
+  {
+    "title": "React Jobs",
+    "description": "A job listing website regarding react",
+    "picture": ""
+  }
+]
