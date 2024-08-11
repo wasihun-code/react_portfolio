@@ -4,7 +4,7 @@ import picture from '../assets/picture.jpg'
 
 const Contact = () => {
   return (
-    <div className='flex flex-col lg:flex-row justify-between items-center'>
+    <div className='flex flex-col  lg:flex-row justify-between items-center'>
       <div className='flex flex-col md:gap-4 gap-5 md:ml-5'>        
           <h3 className='text-2xl md:text-5xl'>Hello, Lets Get In Touch<Dot size='text-5xl'/></h3>
           <p className='text-xl text-slateGray w-full md:w-3/4'>
