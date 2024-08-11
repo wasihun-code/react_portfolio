@@ -1,7 +1,6 @@
 {
   "name": "portfolio",
   "private": true,
-  "homepage": "/react_portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
