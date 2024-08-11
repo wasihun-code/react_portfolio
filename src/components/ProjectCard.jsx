@@ -2,13 +2,13 @@ import React from 'react'
 import pic from '../assets/picture.jpg'
 
 
-const ProjectCard = ({project, title_size="text-3xl", desc_size='text-xl'}) => {
+const ProjectCard = ({project, title_size="", desc_size='text-xl'}) => {
   return (
     <>
-      <img className='w-4/4 h-72 rounded-3xl' src={pic} alt='project1' />
+      <img className='h-72 rounded-3xl' src={pic} alt='project1' />
       <div className='flex flex-col gap-3'>
-        <h1 className={title_size}>{project.title}</h1>
-        <p className={`text-lessBlack ${desc_size}`}>{project.description}</p>
+        <h1 className={`text-4xl md:text-5xl `}>{project.title}</h1>
+        <p className={`text-lessBlack text-xl md:text-2xl`}>{project.description}</p>
       </div>
     </>
   )

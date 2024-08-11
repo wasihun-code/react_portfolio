@@ -10,7 +10,6 @@ const Navbar = () => {
         <ul className="flex flex-col md:flex-row justify-between gap-3 mb-4 md:mb-0">
           <li><a href="#" className="hover:text-primary">Home</a></li>
           <li><a href="#" className="text-primary hover:text-primary">Projects</a></li>
-          <li><a href="#" className="hover:text-primary">About</a></li>
         </ul>
         <a href="#" className="hover:text-primary">Contact me</a>
       </nav>

@@ -6,8 +6,7 @@ const AllProjects = () => {
   return (
     <>
       <h1 className='text-6xl'>Projects</h1>
-
-      <div className='flex flex-col gap-32'>
+      <div className='flex flex-col gap-y-52 md:gap-y-36'>
           {
             projectData.map((project) => (
               <div className='flex flex-col gap-10 h-96'>

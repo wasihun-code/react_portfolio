@@ -1,8 +1,8 @@
 import React from 'react'
 
-const Dot = () => {
+const Dot = ({size="text-3xl"}) => {
   return (
-    <span className="text-primary text-3xl">.</span>
+    <span className={`text-primary ${size}`}>.</span>
   )
 }
 
