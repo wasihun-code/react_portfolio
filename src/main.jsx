@@ -9,7 +9,6 @@ import {
 import App from './App.jsx'
 import './index.css'
 import Contact from './components/Contact.jsx'
-import AllProjects from './components/AllProjects.jsx'
 import ErrorPage from './pages/error-page.jsx'
 import HomePage from './pages/HomePage.jsx'
 
@@ -30,10 +29,6 @@ const router = createBrowserRouter([
       {
         path: 'contact',
         element: <Contact />
-      },
-      {
-        path: 'projects',
-        element: <AllProjects />
       }
     ]
   }

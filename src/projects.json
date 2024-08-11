@@ -1,17 +1,26 @@
 [
   {
     "title": "Hypothyroid Predictor",
-    "description": "Flask based application integrated with ML models. Used to predict Hypothyroidism.",
-    "picture": ""
+    "description": "Developed a real-time hypothyroid disease detection application that leverages ML algorithms.",
+    "Tech": "Flask, Python, Machine Learning, Bootstrapp, HTML, CSS",
+    "image": "/src/assets/hypothyroidism.jpg",
+    "code": "https://github.com/wasihun-code/Hyporthroid-Web-App.git",
+    "preview": "https://hyporthroid-web-app.onrender.com/"
   },
   {
     "title": "Sport Scheduler",
-    "description": "Nodejs based application used to schedule sport events and track them",
-    "picture": ""
+    "description": "Created an application to streamline the scheduling of sports events.",
+    "Tech": "Node.js, Express.js, JavaScript, HTML, CSS, TailwindCSS",
+    "image": "/src/assets/sport_scheduler.png",
+    "code": "https://github.com/wasihun-code/Sport-Scheduler.git",
+    "preview": "https://sportscheduler-app-web-service.onrender.com/"
   },
   {
     "title": "React Jobs",
     "description": "A job listing website regarding react",
-    "picture": ""
+    "Tech": "React, TailwindCSS, HTML",
+    "image": "/src/assets/react_jobs.jpeg",
+    "code": "",
+    "preview": ""
   }
 ]
