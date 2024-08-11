@@ -2,6 +2,6 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  base: '/react_portfolio/', // Ensure this matches your GitHub Pages path
+  base: '/react_portfolio/dist', // Ensure this matches your GitHub Pages path
   plugins: [react()],
 });
