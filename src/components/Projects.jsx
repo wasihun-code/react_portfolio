@@ -2,12 +2,13 @@ import React from 'react'
 import projectsData from '../projects.json'
 import ProjectCard from './ProjectCard'
 import Dot from './Dot'
+
 const Projects = () => {
 
   const latestProjects = projectsData.slice(0, 3)
 
   return (
-    <div className='flex flex-col gap-3'>
+    <div id='projects' className='flex flex-col gap-3'>
       <h1 className='text-6xl mb-8'>Projects<Dot size="text-7xl" /></h1>
       <div className='grid grid-cols-1 gap-16 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 '>
         {

@@ -6,7 +6,7 @@ import FadeInSection from './FadeInSection'
 const Contact = () => {
   return (
     <FadeInSection>
-      <div className='flex flex-col md:flex-row gap-10 md:gap-6'>
+      <div id='contact' className='flex flex-col md:flex-row gap-10 md:gap-6'>
           <div className='flex flex-col gap-5 md:gap-4'>        
               <h3 className='text-3xl md:text-4xl lg:text-5xl'>Lets Get In Touch<Dot size='text-5xl'/></h3>
               <p className='text-xl w-3/4 md:w-3/3 text-slateGray lg:w-3/4 md:w-4/4'>

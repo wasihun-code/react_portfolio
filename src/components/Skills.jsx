@@ -5,7 +5,7 @@ import Dot from './Dot';
 const Skills = () => {
   
   return (
-    <div className='flex flex-col gap-2'>
+    <div id='skills' className='flex flex-col gap-2'>
       <h1 className='text-6xl mb-8'>Skills<Dot size="text-6xl"/></h1>
       <div className='grid grid-cols sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10'>   
         {skillsData.map((item, index) => (
