@@ -19,7 +19,6 @@ const Projects = () => {
           ))
         }   
       </div>
-      <a className='my-4 bg-primary text-zincWhite w-40 p-3 rounded-lg place-content-center justify-center' href="#">View All Projects</a>
     </div>
   )
 }
