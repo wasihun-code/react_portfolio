@@ -4,7 +4,7 @@
     "title": "Hypothyroid Predictor",
     "description": "Developed a real-time hypothyroid disease detection application that leverages ML algorithms.",
     "Tech": "Flask, Python, Machine Learning, Bootstrap, HTML, CSS",
-    "image": "../assets/hypothyroidism.jpg",
+    "image": "https://i.ibb.co/wNK0gH8/image1.jpg",
     "code": "https://github.com/wasihun-code/Hyporthroid-Web-App.git",
     "preview": "https://hyporthroid-web-app.onrender.com/"
   },
@@ -13,7 +13,7 @@
     "title": "Sport Scheduler",
     "description": "Created an application to streamline the scheduling of sports events.",
     "Tech": "Node.js, Express.js, JavaScript, HTML, CSS, TailwindCSS",
-    "image": "/assets/sport_scheduler.png",
+    "image": "https://i.ibb.co/qdKpz8q/image3.png",
     "code": "https://github.com/wasihun-code/Sport-Scheduler.git",
     "preview": "https://sportscheduler-app-web-service.onrender.com/"
   },
@@ -22,7 +22,7 @@
     "title": "React Jobs",
     "description": "A job listing website regarding react",
     "Tech": "React, TailwindCSS, HTML",
-    "image": "/assets/react_jobs.jpeg",
+    "image": "https://i.ibb.co/Qp29t7D/image2.jpg",
     "code": "",
     "preview": ""
   }

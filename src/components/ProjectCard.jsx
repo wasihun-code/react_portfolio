@@ -6,7 +6,7 @@ const ProjectCard = ({project, img_class}) => {
   return (
     <>
       <div className='relative group'>
-        <img className={`${img_class} w-full`} src={`/assets/image${project.id}.jpg`} alt='project1' />
+        <img className={`${img_class} w-full`} src={project.image} alt='project1' />
         <div className="absolute inset-0 flex gap-2 items-center justify-center opacity-0 group-hover:opacity-100 bg-black bg-opacity-50 transition-opacity duration-300">
           <a href={project.preview} className="bg-primary  hover:border-2 hover:bg-white hover:text-lessBlack text-white px-4 py-2 m-2 rounded-lg">
               View Project
